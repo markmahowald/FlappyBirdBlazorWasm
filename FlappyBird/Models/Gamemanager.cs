@@ -17,6 +17,7 @@ namespace FlappyBird.Models
         {
             Bird = new BirdModel();
             Pipes = new List<PipeModel>();
+            Score = new ScoreModel();
         }
 
 
@@ -26,6 +27,8 @@ namespace FlappyBird.Models
             while(IsRunning)
             {
                 MoveObjects();
+
+                IncreaseScore();
 
                 CheckForCollisions();
                 ManagePipes();
@@ -49,6 +52,7 @@ namespace FlappyBird.Models
         public void GameOver()
         {
             this.IsRunning = false;
+            Score.ResetScore();
         }
 
         public void Jump()
@@ -106,7 +110,10 @@ namespace FlappyBird.Models
                 Pipes.Remove(Pipes.First());
             }
         }
+
+        void IncreaseScore()
+        {
+            Score.IncreaseScore();
+        }
     }
-
-
 }

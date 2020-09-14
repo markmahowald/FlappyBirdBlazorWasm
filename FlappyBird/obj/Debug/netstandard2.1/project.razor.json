@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -353208840,
+        "Kind": "Components.Component",
+        "Name": "FlappyBird.App",
+        "AssemblyName": "FlappyBird",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FlappyBird.App"
+        }
+      },
+      {
+        "HashCode": 1200689601,
+        "Kind": "Components.Component",
+        "Name": "FlappyBird.App",
+        "AssemblyName": "FlappyBird",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FlappyBird.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FlappyBird.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 320932232,
         "Kind": "Components.Component",
         "Name": "FlappyBird.Components.Bird",
@@ -196,39 +229,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "FlappyBird.Components.Score",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -353208840,
-        "Kind": "Components.Component",
-        "Name": "FlappyBird.App",
-        "AssemblyName": "FlappyBird",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FlappyBird.App"
-        }
-      },
-      {
-        "HashCode": 1200689601,
-        "Kind": "Components.Component",
-        "Name": "FlappyBird.App",
-        "AssemblyName": "FlappyBird",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FlappyBird.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FlappyBird.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

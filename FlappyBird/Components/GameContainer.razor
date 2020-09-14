@@ -1,4 +1,7 @@
 @page "/game"
+@using FlappyBird.Models
+
+<div class="score"></div>
 <div class="border-left"></div>
 <div class="game-container" tabindex="0" @onclick="_gameManager.StartGame" @onkeyup="HandleKeyUp">
     <div class="border-top"></div>

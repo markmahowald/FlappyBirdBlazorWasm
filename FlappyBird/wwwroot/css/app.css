@@ -84,3 +84,11 @@ body{
 .pipe.top{
     transform: rotate(180deg)
 }
+.score{
+    left: 580px;
+    width: 80px;
+    height: 790px;
+    position: absolute;
+    background-color: black;
+    z-index: +2;
+}

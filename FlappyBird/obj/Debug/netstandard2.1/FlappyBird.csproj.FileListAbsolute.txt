@@ -176,7 +176,6 @@
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/FlappyBird.RazorTargetAssemblyInfo.cache
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/FlappyBird.csproj.CopyComplete
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/blazor/unlinked.output
-/Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/ITPle5SvfEUe4NhVQ10AN2iGF7breJ5rHVSN2OqbGS0=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
@@ -227,13 +226,11 @@
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-/Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/IKT41I6xACs685ZB--lO8LmoI9LNpc0riYWZd64T1Qw=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/blazor/blazor.boot.json
-/Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/Ph9Vf4wj8hYOFKa2guzl-bGQ25rCzPcVrLuZi9Irvi4=.hash
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/compressed/_framework/_bin/FlappyBird.dll.gz
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/compressed/_framework/_bin/netstandard.dll.gz
@@ -352,3 +349,6 @@
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/staticwebassets/FlappyBird.StaticWebAssets.xml
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/FlappyBird.dll
 /Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/FlappyBird.pdb
+/Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/8_-m0WKOIm_VN-GnuL87MXj58mtFAjRTqKQfiq179jM=.hash
+/Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/gkTenCMuAKVz31_4QDIvQgBd81xPte68SZ6USvZ9HWE=.hash
+/Users/markmahowald/personalProjects/BlazorProjects/FlappyBirdBlazorWasm/FlappyBirdBlazorWasm/FlappyBird/obj/Debug/netstandard2.1/integrity/oKck5oWVOLUdB9lzA1p6BDPlB_NWXyqFONkPq1HaUgg=.hash
